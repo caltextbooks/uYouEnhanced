@@ -16,7 +16,7 @@ on:
         default: "3.0.3"
         required: true
         type: string
-      decrypted_youtube_url:
+      decrypted_youtube_url:https://www.dropbox.com/scl/fi/8zpm7zh4beh5dlhgtfit3/com.google.ios.youtube_19.14.3_und3fined.ipa?rlkey=x7ryxnoomdtulpw3v28rcr5ap&dl=1
         description: "The direct URL to the decrypted YouTube ipa"
         default: ""
         required: true
